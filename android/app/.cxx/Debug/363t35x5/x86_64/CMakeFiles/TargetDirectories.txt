@@ -1,0 +1,2 @@
+C:/Users/ranao/StudioProjects/nextbigthing/studystreak/android/app/.cxx/Debug/363t35x5/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/ranao/StudioProjects/nextbigthing/studystreak/android/app/.cxx/Debug/363t35x5/x86_64/CMakeFiles/rebuild_cache.dir
